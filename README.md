@@ -38,7 +38,7 @@ You will find even more software hidden in my GitHub repositories, explore them 
 
 You may find me elsewhere too:
   * [www.bernardi.cloud, my website](https://www.bernardi.cloud)
-  * [LinkedIn](https://www.linkedin.com/company/pbsw/)
+  * [LinkedIn](https://www.linkedin.com/company/pbswengineering/)
   * [Facebook](https://www.facebook.com/pbswengineering/)
   * [Twitter](https://twitter.com/pbswengineering)
   * [Instagram](https://www.instagram.com/paolo.bernardi/)
