@@ -6,7 +6,7 @@
 
 Welcome to my GitHub page!
 
-I'm Paolo, a <a href="https://pages.di.unipi.it/bernardi">Computer Science PhD at the https://people.unipi.it/paolo_bernardi/University of Pisa</a>. I'm also a <a href="https://www.bernardi.cloud/teaching">Computer Science high-school teacher</a> and a software engineer, [member A1364](https://www.ordingtr.it/author/brnpla82a16f457a/) of the Italian  Institution of Engineers – Province of Terni, Section A (senior), sector C (information engineering).
+I'm Paolo, a <a href="https://pages.di.unipi.it/bernardi">Computer Science PhD at the University of Pisa</a>. I'm also a <a href="https://www.bernardi.cloud/teaching">Computer Science high-school teacher</a> and a software engineer, [member A1364](https://www.ordingtr.it/author/brnpla82a16f457a/) of the Italian  Institution of Engineers – Province of Terni, Section A (senior), sector C (information engineering).
 
 While most of my work pertains closed source software, every now and then I create code that I can share in the open without being sued or ashamed: this is what my GitHub space is about. Here you will find some absolutely indespensable, highly-customized utilities that I couldn't refrain from creating. Everyone has needs, after all.
 
